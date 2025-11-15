@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const techs = [
  
    { src: "/skills/css.png" },
-   { src: "/skills/docker.png" },
+   { src: "/skills/docker.png"} ,
    { src: "/skills/express.png" },
    { src: "/skills/figma.png" },
    { src: "/skills/firebase.png" },
